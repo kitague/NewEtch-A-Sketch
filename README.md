@@ -1,0 +1,1 @@
+This is one of the project from the Odin Project Curriculium where Leaner apply skills learned on the DOM Manipulation section. The complete game has been built from Javascript with few line of codes of HTML and CSS.
